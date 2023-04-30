@@ -1,0 +1,7 @@
+npm install @material-ui/core
+
+npm i @date-io/date-fns@1.x date-fns
+
+npm i @date-io/moment@1.x moment
+
+npm i dropzone
